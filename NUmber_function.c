@@ -1,9 +1,4 @@
-// to to convert form one base to another
-//#include <stdio.h>
-//#include <string.h>
-//#include <stdlib.h>
-//#include <math.h>
-//#include <ctype.h>
+
 #include "number.h"
 
 // Function to convert a digit character to its integer value
